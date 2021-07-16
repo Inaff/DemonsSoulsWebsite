@@ -1,1 +1,5 @@
-https://acinomatnas.github.io/DemonsSoulsWebsite/[https://acinomatnas.github.io/DemonsSoulsWebsite/^]
+https://inaff.github.io/DemonsSoulsWebsite/[https://inaff.github.io/DemonsSoulsWebsite/^]
+
+About
+~~~~~
+A website I made in 2017 for the purpose of learning while creating a minimal website.
